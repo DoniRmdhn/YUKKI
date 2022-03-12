@@ -36,10 +36,10 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Always remeber to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>    
-<p><a href="https://replit.com/@duskyjoe/duskyjoe-string-gen?v=1"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@duskyjoe/duskyjoe-string-gen?v=1"><img src="https://telegra.ph/file/e41466544aa55f9cf0d64.jpg" width="200""/></a></p>
 
 <h4> Generate Session via Telegram StringGen Bot: </h4>    
-<p><a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/YukkiStringBot"><img src="https://telegra.ph/file/e41466544aa55f9cf0d64.jpg" width="200""/></a></p>
     
 </details>
 
@@ -52,7 +52,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/duskyjoe/YUKKI"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/duskyjoe/YUKKI"><img src="https://telegra.ph/file/e41466544aa55f9cf0d64.jpg" width="200"/></a></p>
     
 </details>
 
@@ -92,14 +92,4 @@ shikhar@MacBook~ $ bash start
 
 ## License
 
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
-
-## Acknowledgements
-
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information

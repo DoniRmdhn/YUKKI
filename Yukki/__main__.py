@@ -18,6 +18,7 @@ import config
 from YukkiMusic import LOGGER, app, userbot
 from YukkiMusic.core.call import Yukki
 from YukkiMusic.plugins import ALL_MODULES
+
 loop = asyncio.get_event_loop()
 async def init():
     if (
@@ -27,6 +28,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
+        
         LOGGER("YukkiMusic").error(
             "No Assistant Clients Vars Defined!.. Exiting Process."
         )
@@ -61,6 +63,7 @@ async def init():
     await Yukki.decorators()
     LOGGER("YukkiMusic").info("Yukki Music Bot Started Successfully")
     await idle()
+    
 if __name__ == "__main__":
     loop.run_until_complete(init())
     LOGGER("YukkiMusic").info("Stopping Yukki Music Bot! GoodBye")

@@ -1,15 +1,15 @@
-<p align="center"><img src="https://telegra.ph/file/e41466544aa55f9cf0d64.jpg" alt="ICON" width="250" height="250"/></p>
+<p align="center"><img src="https://telegra.ph/file/e4f4774924b0c2015db11.jpg" alt="ICON" width="250" height="250"/></p>
 
 <h4 align="center">
-    🧚 𝙆𝙐𝙏𝙏𝙔 𝘼𝙉𝙂𝙀𝙇 🧚
+    🦋𝙆𝙃𝘼𝙇𝙄𝙁𝘼🦋
 </h4>
 <p align="center">
-    <a href="https://t.me/KuttyAngel_musicbot"> Ready-To-Use Bot </a> •
-    <a href="https://t.me/Kutty_Angel_Music_Bot_Channel"> Support Channel </a> •
-    <a href="https://t.me/Kutty_Angel_Music_Bot_Group"> Support Chat </a> 
+    <a href="https://t.me/MS_KHALIFA_BOT"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/khalifaupdates"> Support Channel </a> •
+    <a href="https://t.me/khalifasupport"> Support Chat </a> 
 </p>
     
-# 🧚 𝙆𝙐𝙏𝙏𝙔 𝘼𝙉𝙂𝙀𝙇 🧚 Music Bot
+# 🦋𝙆𝙃𝘼𝙇𝙄𝙁𝘼🦋 Music Bot
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
@@ -36,10 +36,10 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Always remeber to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>    
-<p><a href="https://replit.com/@duskyjoe/duskyjoe-string-gen?v=1"><img src="https://telegra.ph/file/e41466544aa55f9cf0d64.jpg" width="200""/></a></p>
+<p><a href="https://replit.com/@duskyjoe/duskyjoe-string-gen?v=1"><img src="https://telegra.ph/file/e4f4774924b0c2015db11.jpg" width="200""/></a></p>
 
 <h4> Generate Session via Telegram StringGen Bot: </h4>    
-<p><a href="https://t.me/YukkiStringBot"><img src="https://telegra.ph/file/e41466544aa55f9cf0d64.jpg" width="200""/></a></p>
+<p><a href="https://t.me/YukkiStringBot"><img src="https://telegra.ph/file/e4f4774924b0c2015db11.jpg" width="200""/></a></p>
     
 </details>
 
@@ -85,8 +85,8 @@ shikhar@MacBook~ $ bash start
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/Kutty_Angel_Music_Bot_Channel)
-- [Telegram Support Group](https://t.me/Kutty_Angel_Music_Bot_Group)
+- [Telegram Channel](https://t.me/khalifaupdates)
+- [Telegram Support Group](https://t.me/khalifasupport)
 - [Contact Owner](https://t.me/ONLY_DUSKY)
 
 

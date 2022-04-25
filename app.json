@@ -114,8 +114,8 @@
       "required": true
     },
     "UPSTREAM_REPO": {
-      "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+      "description": "Don't Change this, Leave as it is",
+      "value": "https://github.com/KuttyAngelBot/YUKKI",
       "required": true
     },
     "UPSTREAM_BRANCH": {
